@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #CB8B26;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+a {
+    color: #4A7705;
+}
+
+.croissant-img {
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.mail-link {
+    color: rgb(88, 88, 218);
+}
